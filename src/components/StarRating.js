@@ -12,6 +12,7 @@ export function StarRating({ rating }) {
         fillColor='yellow'
         emptyColor='lightgrey'
         size={30}
+        
       />
     </div>
   )

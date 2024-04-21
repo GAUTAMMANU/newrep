@@ -35,7 +35,7 @@
     /* border-radius:15%; */
     width: 80%;
     height: 80%;
-    border-radius: 15%;
+    border-radius: 6px;
     margin: 0.5vw;
   }
   
@@ -140,6 +140,9 @@
   
   .rating-container .star {
     margin-right: 1.5%;
+  }
+  .star .App{
+    height: 10px;
   }
   
   .rating-container .ratingval {
